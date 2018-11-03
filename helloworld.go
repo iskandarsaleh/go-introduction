@@ -8,5 +8,5 @@ func greetings (name string) string(
 func main() {
       
 }
-fmt.println { (greeting + ("world")) 
+fmt.Println { (greeting + ("world")) 
 }
