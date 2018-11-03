@@ -7,6 +7,5 @@ func greetings (name string) string {
 }
 func main() {
       
-}
-fmt.Println { (greeting + ("world")) 
+fmt.Println(greeting("world")) 
 }
